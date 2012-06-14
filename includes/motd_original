@@ -1,0 +1,6 @@
+<b>Welcome to the Issue Tracker, replace this page with your greeting, help, or MOTD through the administration panel.</b>
+<ul class=\"gray\">
+<li><b>Issue Tracking</b><br />This portal application provides, Help Desk Ticketing, or Bug tracking functionality. It has the ability to move issues between reps and groups, to escalate to another group, to have public and private issues and event, and to have e-mail and sms alerts. <br /><br /></li>
+<!-- <li><b>Knowledge Base</b><br />You can also turn issues into knowledge base entries<br /><br /></li> -->
+<li><b>Portalized</b><br />The default queue views are configurable, per user, as is the color scheme. This application can serve as a knowledge center, ticketing system as is, or can be extended to include more customer, sale and contract data (i.e. CRM, sales cycle tracking)<br /><br /><br /></li>
+</ul>                                    

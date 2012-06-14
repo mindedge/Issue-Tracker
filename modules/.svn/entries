@@ -1,0 +1,52 @@
+10
+
+dir
+25
+svn+ssh://mindedgecollege.com/svn_repositories/issuetracker/modules
+svn+ssh://mindedgecollege.com/svn_repositories/issuetracker
+
+
+
+2012-06-13T17:27:15.096651Z
+24
+mwarner
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8aba35b2-6b8c-4b41-afed-8153491ec14c
+
+admin
+dir
+
+announce
+dir
+
+groups
+dir
+
+issues
+dir
+
+prefs
+dir
+
+public
+dir
+
+reports
+dir
+
+users
+dir
+

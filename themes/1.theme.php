@@ -1,0 +1,30 @@
+<?php
+$font_size                = "8";
+$font_unit                = "pt";
+$font_family              = "Verdana, Arial, Helvetica, sans-serif";
+$border_color             = "gray";
+$link_hover               = "highlight";
+$underline                = FALSE;
+$fgcolor                  = "black";
+$bgcolor                  = "white";
+$table_head_fgcolor       = "black";
+$table_head_bgcolor       = "#666666";
+$titlebar_fgcolor         = "white";
+$titlebar_bgcolor         = "#336699";
+$subtitle_fgcolor         = "white";
+$subtitle_bgcolor         = "#333333";
+$row1_fgcolor             = "black";
+$row1_bgcolor             = "#white";
+$row2_fgcolor             = "black";
+$row2_bgcolor             = "#dddddd";
+$label_fgcolor            = "black";
+$label_bgcolor            = "#999999";
+$data_fgcolor             = "black";
+$data_bgcolor             = "#cccccc";
+$menu_fgcolor             = "black";
+$menu_bgcolor             = "#999999";
+$submenu_fgcolor          = "black";
+$submenu_bgcolor          = "#cccccc";
+$error_fgcolor            = "red";
+$error_bgcolor            = "#cccccc";
+?>

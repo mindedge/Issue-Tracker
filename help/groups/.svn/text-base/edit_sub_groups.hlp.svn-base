@@ -1,0 +1,19 @@
+<p>
+Sub groups can be difficult to understand at first, but once you get the
+hang of it this can be a very powerful feature.  Each group has multiple
+sets of propagation preferences. The first set is the parent propagation
+settings.  These settings determine whether or not the information from
+the parent group will propogate to the sub groups (children).  To toggle
+one of these settings simply click on the icon. There are also propagation 
+settings for each child.  These settings determine whether or not the 
+information from the children will propogate up to the parent.  To toggle 
+one of these settings simply click on the icon.
+</p>
+<p>
+In the case of user propagation, if a user belongs to multiple children
+or already belongs to both the parent and a child group then the user's
+permission set will be the one granting them the most access.  So if the
+given user is a Technician in one of the children, but Group Administrator
+in another, the permission set for said user will be Group Administrator
+for all children and parent, if user propagation is enabled.
+</p>

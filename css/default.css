@@ -1,0 +1,216 @@
+html, body {
+  border-right: 0px !important;
+}
+body {
+  font-size: 8pt;
+  color: black;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background-color: white;
+  margin: 0px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 0px;
+}
+table {
+  border-collapse: collapse;
+  empty-cells: show;
+}
+tr, td {
+  font-size: 8pt;
+  color: black;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  vertical-align: top;
+  empty-cells: show;
+  border-collapse: collapse;
+}
+pre {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+a, a:visited {
+  color: black;
+  background: transparent;
+  font-size: 8pt;
+  text-decoration: none; 
+}
+a:hover {
+  color: highlight !important;
+  background: transparent;
+  text-decoration: underline !important;
+}
+.buttons {
+  color: black;
+  background: #999999;
+  border: 1px solid gray;
+  width: 98%;
+}
+.iconbar {
+  text-align: right;
+  color: black;
+  background: #cccccc;
+  border: 1px solid gray;
+  width: 99%;
+  margin-bottom: 4px;
+  padding: 2px;
+}
+img {
+  vertical-align: middle;
+}
+.fixed {
+  font-family: courier;
+}
+.header, .header a, .header a:visited {
+  vertical-align: middle;
+  background-color: black;
+  color: white;
+  padding: 2px;
+}
+.crumb {
+  font-weight: bold;
+  font-size: 8pt;
+  color: white;
+  background: #333333;
+  padding: 2px;
+  margin: 2px;
+  vertical-align: middle;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+.crumb a, .crumb a:visited {
+  font-weight: bold;
+  font-size: 8pt;
+  color: white;
+  background: #333333;
+  padding: 2px;
+  margin: 2px;
+  vertical-align: middle;
+}
+.titlebar, .titlebar a, .titlebar a:visited {
+  background-color: #336699;
+  color: white;
+  font-size: 8pt;
+  font-weight: bold;
+}
+.subtitle, .subtitle a, .subtitle a:visited {
+  background-color: #333333;
+  color: white;
+  font-size: 8pt;
+}
+.tablehead, .tablehead td, .tablehead a, .tablehead a:visited	{
+  color: black;
+  background-color: #666666;
+  font-weight: bold;
+}
+.private {
+  vertical-align: top;
+  color: black;
+  background-color: #cccccc;
+  background-image: url(/themes/default/images/png/private_event.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.label {
+  vertical-align: top;
+  color: black;
+  background-color: #999999;
+}
+.data {
+  color: black;
+  background-color: #cccccc;
+}
+.row1, .row1 td, .row1 a, .row1 a:visited {
+  color: black;
+  background-color: white;
+}
+.row2, .row2 td, .row2 a, .row2 a:visited {
+  color: black;
+  background-color: #dddddd;
+}
+.menu, .menu a, .menu a:visited {
+  color: black;
+  background-color: #999999;
+}
+.submenu, .submenu a, .submenu a:visited {
+  color: black;
+  background-color: #cccccc;
+}
+.error {
+  color: red;
+  background-color: #cccccc;
+  font-weight: bold;
+}
+.required {
+  color: red;
+  background: transparent;
+  font-weight: bold;
+}
+.borders, .borders td {
+  border: 1px solid gray;
+}
+.noborders, .noborders td {
+  border: none;
+}
+.leftnav {
+  padding: 0px;
+  margin: 0px;
+  border-right: 1px solid gray;
+}
+.leftnav td {
+  border-top: none;
+  border-bottom: 1px solid gray;
+  border-right: none;
+  border-left: none;
+}  
+.rightnav {
+  padding: 0px;
+  margin: 0px;
+  border-left: 1px solid gray;
+}
+.rightnav td {
+  border-top: none;
+  border-bottom: 1px solid gray;
+  border-right: none;
+  border-left: none;
+}
+input, select, textarea {
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  border: 1px solid gray;
+  margin: 2px;
+}
+textarea {
+  width: 99%;
+  color: black;
+  background-color: white;
+}
+.privateupdate {
+  vertical-align: top;
+  color: black;
+  background-color: white;
+  background-image: url(/images/private-event.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.footer {
+  font-size: 8pt;
+  color: black;
+  background-color: white;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  border-top: 1px solid gray;
+}
+form {
+  display: inline;
+}
+.debug {
+  color: black;
+  background-color: #cccccc;
+  font-size: 8pt;
+  margin: 2px;
+  padding: 2px;
+}
+.login {
+  color: black;
+  background: #cccccc;
+  border: 1px solid gray;
+}
+
